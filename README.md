@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aakshaya302007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/aakshaya302007/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/aakshaya302007/LeetCode/tree/master/0735-asteroid-collision) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aakshaya302007/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/aakshaya302007/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aakshaya302007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/aakshaya302007/LeetCode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
 | [0622-design-circular-queue](https://github.com/aakshaya302007/LeetCode/tree/master/0622-design-circular-queue) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aakshaya302007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Greedy
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aakshaya302007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aakshaya302007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
