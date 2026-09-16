@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/aakshaya302007/LeetCode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
 | [0622-design-circular-queue](https://github.com/aakshaya302007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/aakshaya302007/LeetCode/tree/master/0735-asteroid-collision) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/aakshaya302007/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
