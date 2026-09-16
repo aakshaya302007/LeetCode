@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/aakshaya302007/LeetCode/tree/master/0086-partition-list) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/aakshaya302007/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/aakshaya302007/LeetCode/tree/master/0735-asteroid-collision) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aakshaya302007/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
 | [0622-design-circular-queue](https://github.com/aakshaya302007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/aakshaya302007/LeetCode/tree/master/0735-asteroid-collision) |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/aakshaya302007/LeetCode/tree/master/0622-design-circular-queue) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
