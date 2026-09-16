@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/aakshaya302007/LeetCode/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/aakshaya302007/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/aakshaya302007/LeetCode/tree/master/0622-design-circular-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
+| [0622-design-circular-queue](https://github.com/aakshaya302007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/aakshaya302007/LeetCode/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/aakshaya302007/LeetCode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/aakshaya302007/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
