@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/aakshaya302007/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/aakshaya302007/LeetCode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/aakshaya302007/LeetCode/tree/master/0135-candy) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/aakshaya302007/LeetCode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
