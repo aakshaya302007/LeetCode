@@ -28,9 +28,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
 | [0735-asteroid-collision](https://github.com/aakshaya302007/LeetCode/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aakshaya302007/LeetCode/tree/master/0735-asteroid-collision) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
