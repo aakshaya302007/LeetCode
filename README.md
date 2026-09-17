@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/aakshaya302007/LeetCode/tree/master/0212-word-search-ii) |
 | [0394-decode-string](https://github.com/aakshaya302007/LeetCode/tree/master/0394-decode-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aakshaya302007/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aakshaya302007/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/aakshaya302007/LeetCode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/aakshaya302007/LeetCode/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/aakshaya302007/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/aakshaya302007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/aakshaya302007/LeetCode/tree/master/0735-asteroid-collision) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aakshaya302007/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/aakshaya302007/LeetCode/tree/master/0212-word-search-ii) |
 ## Design
 |  |
 | ------- |
@@ -129,8 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aakshaya302007/LeetCode/tree/master/0051-n-queens) |
+| [0212-word-search-ii](https://github.com/aakshaya302007/LeetCode/tree/master/0212-word-search-ii) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aakshaya302007/LeetCode/tree/master/0051-n-queens) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/aakshaya302007/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
