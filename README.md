@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aakshaya302007/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aakshaya302007/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aakshaya302007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aakshaya302007/LeetCode/tree/master/0051-n-queens) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aakshaya302007/LeetCode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/aakshaya302007/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/aakshaya302007/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aakshaya302007/LeetCode/tree/master/0212-word-search-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aakshaya302007/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aakshaya302007/LeetCode/tree/master/0041-first-missing-positive) |
 ## Divide and Conquer
 |  |
@@ -131,14 +134,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aakshaya302007/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/aakshaya302007/LeetCode/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/aakshaya302007/LeetCode/tree/master/0212-word-search-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aakshaya302007/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/aakshaya302007/LeetCode/tree/master/0051-n-queens) |
 ## Trie
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/aakshaya302007/LeetCode/tree/master/0212-word-search-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aakshaya302007/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
